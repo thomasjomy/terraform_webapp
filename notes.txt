@@ -1,0 +1,6 @@
+Prerequisites
+ Kubernetes cluster up and running
+ Kubectl installed and configured
+ Terraform installed
+
+ 
